@@ -1,0 +1,14 @@
+{
+  "data":[
+    {
+      "role":"user",
+      "action":"want to do smth",
+      "goal":"get smth"
+    }
+  ],
+  "rules":{
+    "role":"я",
+    "action":"хочу",
+    "goal":"чтобы"
+  }
+}
