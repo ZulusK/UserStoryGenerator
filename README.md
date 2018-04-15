@@ -20,7 +20,7 @@ You need have installed Node.js environment and npm manager. [Here is link to tu
 npm start inputFilename outpurFilename[optional]
 ``` 
 ## Running the tests    
-####Lint code
+#### Lint code
 Lint code of server using rules, defined in [.eslintrc.js](.eslintrc.js) file
 ```bash
 npm run lint
