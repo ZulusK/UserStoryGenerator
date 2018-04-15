@@ -16,9 +16,9 @@ You need have installed Node.js environment and npm manager. [Here is link to tu
     ```
 2. Create input JSON-file like [this](stories.json)
 3. Run program with command 
-```bash
-npm start inputFilename outpurFilename[optional]
-``` 
+    ```bash
+    npm start inputFilename outpurFilename[optional]
+    ``` 
 ## Running the tests    
 #### Lint code
 Lint code of server using rules, defined in [.eslintrc.js](.eslintrc.js) file
